@@ -1,0 +1,7 @@
+#Thu Apr 11 09:34:06 BST 2019
+base.0=C\:\\Users\\benma\\OneDrive\\Documents\\GitHub\\BMADIN200MobileGamesCW\\MGDCoursework\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\benma\\OneDrive\\Documents\\GitHub\\BMADIN200MobileGamesCW\\MGDCoursework\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
